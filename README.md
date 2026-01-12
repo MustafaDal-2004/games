@@ -22,3 +22,7 @@ It allows you to measure key metrics like **RTP**, **expected value (EV)**, **va
   - **Slot Machine**: 3-reel slot with configurable symbols and paytable.
 
 ---
+
+Additional Notes
+this simulation doesn't consider varing bet sizes and in simulating real casino games it approximates game statistics may rise potential issues when bet sizes are considered 
+with a house min of 1 and max of 100 mean of 10 sd of 7 the results can vary for that example compared to taking the bet to be 1 every time
