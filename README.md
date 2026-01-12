@@ -3,7 +3,8 @@
 
 This project is a **reusable Monte Carlo simulation engine** for analyzing casino-style games in C++.  
 It allows you to measure key metrics like **RTP**, **expected value (EV)**, **variance**, **standard deviation**, and **hit rate** for any game that implements the `Game` interface.
-
+In the codebase there is varius games scripts highlow and slots are playable the monte carlo script example is built in with the high low and there are roullete and slot example scripts that just need to be fitted into the simulator.
+This code base is a demonstater for casino style statistics and a mean to be used for quick summary of features.
 ---
 
 ## Features
