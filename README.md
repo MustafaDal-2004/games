@@ -13,6 +13,7 @@ There is also a additional model MonteCarloVarBet meaning varying bets to simula
 - Modular **RNG wrapper** for consistent random number generation.
 - Abstract `Game` interface for easy addition of new games.
 - Monte Carlo simulator that can run **millions of trials** efficiently.
+- Monte Carlo with varying bets to simulate aproximate returns for a given bet pattern.
 - Tracks:
   - RTP (Return to Player)
   - Expected Value (EV)
