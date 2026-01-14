@@ -20,7 +20,9 @@ This code base is a demonstater for casino style statistics and a mean to be use
   - Hit Rate
 - Includes sample games:
   - **High-Low**: Predict if a random number is higher.
-  - **Slot Machine**: 3-reel slot with configurable symbols and paytable.
+  - **3 Slot Machine**: 3-reel slot with configurable symbols and paytable.
+  - **5 Slot Machine with rerolls**: 5-reel slot with rerolling when you roll 3 or 4  matchs
+  - **Roullete** theres no playable vertion in this code base but ready to for monte carlo
 
 ---
 
