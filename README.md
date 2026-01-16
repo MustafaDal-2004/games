@@ -29,5 +29,7 @@ There is also a additional model MonteCarloVarBet meaning varying bets to simula
 ---
 
 Additional Notes
-this simulation doesn't consider varing bet sizes and in simulating real casino games it approximates game statistics may rise potential issues when bet sizes are considered 
-with a house min of 1 and max of 100 mean of 10 sd of 7 the results can vary for that example compared to taking the bet to be 1 every time
+Some of these games above do not pass compliance and currently use multiple RNG theoughout
+this is for easy probability calculation to compare monte carlo with calculated probability.
+The reels on the slot machines also are fair with now weighting on specific options.
+
