@@ -25,6 +25,7 @@ There is also a additional model MonteCarloVarBet meaning varying bets to simula
   - **3 Slot Machine**: 3-reel slot with configurable symbols and paytable.
   - **5 Slot Machine with rerolls**: 5-reel slot with rerolling when you roll 3 or 4  matchs
   - **Roullete** american style roullete with 0 and 00
+  - **CompliantSlots** use a single random rumber and enumarates all possible spins given bet return spin result and payout
 
 ---
 
